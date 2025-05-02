@@ -3,6 +3,7 @@
 	font-optical-sizing: auto;
 	font-weight: 600;
 	font-style: normal;
+	color: #41B052;
 }
 
 .overpass {
@@ -76,5 +77,5 @@ content-loader video {
 	.when-small-become-center {
 		text-align: center;
 	}
-	}
+}
 }
