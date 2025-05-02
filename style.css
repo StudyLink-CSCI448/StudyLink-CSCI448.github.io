@@ -1,3 +1,17 @@
+.overpass-bold {
+	font-family: "Overpass", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
+}
+
+.overpass {
+	font-family: "Overpass", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
 html, body {
 	margin: 0;
 	padding: 0;
