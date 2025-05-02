@@ -12,6 +12,14 @@
 	font-style: normal;
 }
 
+h1 {
+	font-size: 30px;
+}
+
+p {
+	font-size: 25px;
+}
+
 html, body {
 	margin: 0;
 	padding: 0;
@@ -31,6 +39,7 @@ html, body {
 .text-content {
 	flex: 1;
 	min-width: 300px;
+	line-height: 250%;
 }
 
 #content-container content-loader {
@@ -62,5 +71,10 @@ content-loader video {
 	.text-content, 
 	#content-container content-loader {
 		width: 100%;
+	}
+
+	.when-small-become-center {
+		text-align: center;
+	}
 	}
 }
