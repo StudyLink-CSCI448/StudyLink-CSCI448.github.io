@@ -63,7 +63,7 @@ content-loader video {
 	object-fit: contain;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
 	#content-container {
 		flex-direction: column;
 		text-align: center;
